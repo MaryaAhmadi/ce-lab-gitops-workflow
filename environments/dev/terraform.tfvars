@@ -1,4 +1,4 @@
 environment        = "dev"
 enable_versioning  = false
-log_retention_days = 8
+log_retention_days = 10
 
