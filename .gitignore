@@ -4,3 +4,11 @@
 .vscode/
 .idea/
 .DS_Store
+
+
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfplan
+.terraform.lock.hcl
+
