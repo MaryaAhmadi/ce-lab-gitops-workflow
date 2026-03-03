@@ -1,7 +1,7 @@
 variable "project_name" {
   description = "Project identifier"
   type        = string
-  default     = "gitops-lab"
+  default     = "gitops-lab-maryam"
 }
 
 variable "environment" {
