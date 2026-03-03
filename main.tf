@@ -8,7 +8,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket         = "ce-bootcamp-tfstate-maryamah"
+    bucket         = "ce-bootcamp-tfstate-maryamahmaditest"
     region         = "us-east-1"
     dynamodb_table = "terraform-locks"
     encrypt        = true
